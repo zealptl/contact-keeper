@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://zealptl:zealptl@contactkeeper-6x6of.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
