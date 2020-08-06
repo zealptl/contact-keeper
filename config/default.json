@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://zealptl:zealptl@contactkeeper-6x6of.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://zeal:zeal@contactkeeper-6x6of.mongodb.net/<dbname>?retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }
